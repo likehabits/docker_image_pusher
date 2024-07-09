@@ -1,1 +1,1 @@
-zoneminderhq/zoneminder:latest-el7
+dlandon/zoneminder:latest
