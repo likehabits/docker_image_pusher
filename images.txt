@@ -1,1 +1,1 @@
-zoneminderhq/zoneminder:latest-ubuntu18.04
+zoneminderhq/zoneminder:latest-el7
