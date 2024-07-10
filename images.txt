@@ -1,1 +1,1 @@
-dlandon/zoneminder:latest
+eclipse-temurin:8-jre
