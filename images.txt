@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master
+kamailio/kamailio-ci:5.4.7-alpine
