@@ -1,1 +1,1 @@
-ubuntu:20.04
+node:18.20.2-alpine
