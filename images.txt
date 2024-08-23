@@ -1,1 +1,1 @@
-node:18.20.2-alpine
+eipwork/kuboard-agent:v3
