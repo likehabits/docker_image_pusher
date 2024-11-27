@@ -1,1 +1,1 @@
-hasura/graphql-engine:latest
+postgres:14
