@@ -1,1 +1,2 @@
-hasura/graphql-engine:v2.23.0
+cvat/server:v2.23.1
+cvat/ui:v2.23.1
