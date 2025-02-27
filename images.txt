@@ -1,3 +1,2 @@
-redis:latest
-rabbitmq:3.6.15-management
-xuxueli/xxl-job-admin:2.3.0
+kubesphere/kubectl:v1.22.0
+docker:20-git
