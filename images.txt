@@ -1,2 +1,1 @@
-kubesphere/kubectl:v1.22.0
-docker:20-git
+ollama/ollama:latest
