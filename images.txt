@@ -1,1 +1,1 @@
-eclipse/kura:5.6.0-ubi8-x86_64
+nacos/nacos-server:v2.0.3
