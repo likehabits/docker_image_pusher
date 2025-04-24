@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.0.3
+snowdreamtech/frps:0.62.0
