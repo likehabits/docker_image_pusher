@@ -1,1 +1,1 @@
-openjdk:8-jre
+openjdk:8u191-jre
