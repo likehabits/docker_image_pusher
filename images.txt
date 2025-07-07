@@ -1,2 +1,1 @@
-pangliang/rocketmq-console-ng
-rocketmqinc/rocketmq:4.4.0 
+openjdk:8-jre
