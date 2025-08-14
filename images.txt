@@ -1,1 +1,1 @@
-docker.umami.is/umami-software/umami:mysql-latest
+elestio/umami:latest
