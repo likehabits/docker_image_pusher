@@ -1,1 +1,1 @@
-node:20.19.5-alpine
+emqx/emqx:5.9.0
