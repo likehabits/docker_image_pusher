@@ -1,1 +1,1 @@
-emqx/emqx:5.9.0
+ubuntu:24.04
