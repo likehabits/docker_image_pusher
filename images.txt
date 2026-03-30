@@ -1,1 +1,1 @@
-jumpmind/symmetricds:latest
+apache/seatunnel:2.3.10
