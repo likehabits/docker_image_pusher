@@ -1,1 +1,1 @@
-apache/seatunnel:2.3.10
+maven:3.9-amazoncorretto-21
