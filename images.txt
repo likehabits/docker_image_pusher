@@ -1,1 +1,1 @@
-ghcr.io/flannel-io/flannel:v0.28.7
+node:24.12.0-alpine
